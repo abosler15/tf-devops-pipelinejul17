@@ -13,6 +13,6 @@ terraform {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name = "ab-basic-pipeline"
+  name = "ab1-basic-pipeline"
   location = "westus2"
 }
