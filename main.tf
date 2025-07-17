@@ -17,7 +17,7 @@ resource "azurerm_resource_group" "rg" {
   location = "westus2"
 }
 
-resource "azurerm_resource_group" "rg" {
+resource "azurerm_resource_group" "rg2" {
   name = "ab2-basic-pipeline"
   location = "westus2"
 }
